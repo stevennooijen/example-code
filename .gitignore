@@ -1,4 +1,7 @@
 .ipynb_checkpoints
 .DS_Store
+venv/
 
-data/
+data
+
+*.sketchpad

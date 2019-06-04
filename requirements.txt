@@ -1,0 +1,5 @@
+pandas
+jupyter
+sklearn
+pymc3
+arviz
