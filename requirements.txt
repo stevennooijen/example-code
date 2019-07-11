@@ -1,5 +1,8 @@
 pandas
 jupyter
-sklearn
-pymc3
+pandas==0.24.2
+sklearn==0.20.3
+pymc3==3.7
 arviz
+beautifulsoup4==4.7.1
+urllib3==1.25.3
