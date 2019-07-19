@@ -1,7 +1,12 @@
 .ipynb_checkpoints
 .DS_Store
+.env
+.idea/
 venv/
 
 data
 
 *.sketchpad
+
+# mlflow stuff
+*/mlruns/*
