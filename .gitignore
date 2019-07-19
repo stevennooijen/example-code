@@ -9,4 +9,4 @@ data
 *.sketchpad
 
 # mlflow stuff
-*/mlruns/*
+mlruns/
