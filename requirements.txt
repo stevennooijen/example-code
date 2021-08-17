@@ -1,12 +1,14 @@
 pandas
 jupyter
 pandas==0.24.2
-sklearn==0.20.3
-pymc3==3.7
-arviz
+scikit-learn==0.20.3
 beautifulsoup4==4.7.1
-urllib3==1.25.3
-python-dotenv==0.10.3
-mlflow==1.0.0
-kaggle==1.5.4
-eli5==0.10.1
+requests==2.26.0
+# pymc3==3.7
+# arviz
+# urllib3
+# beautifulsoup4==4.7.1
+# python-dotenv==0.10.3
+# mlflow==1.0.0
+# kaggle==1.5.4
+# eli5==0.10.1
