@@ -1,6 +1,5 @@
 pandas
 jupyter
-pandas==0.24.2
 scikit-learn==0.20.3
 beautifulsoup4==4.7.1
 requests==2.26.0
