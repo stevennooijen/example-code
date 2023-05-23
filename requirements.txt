@@ -2,7 +2,7 @@ pandas
 jupyter
 scikit-learn==0.20.3
 beautifulsoup4==4.7.1
-requests==2.26.0
+requests==2.31.0
 # pymc3==3.7
 # arviz
 # urllib3
